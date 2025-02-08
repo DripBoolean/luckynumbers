@@ -1,0 +1,8 @@
+[package]
+name = "luckynumbers"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+factor = "0.4.0"
+plotters = "0.3.7"
