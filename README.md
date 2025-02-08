@@ -8,8 +8,8 @@ This means 11 is Lucky!
 So are 1, 4, 9, 10, 11, 16 and many more numbers
 
 ### What does this repo do?
-This repo is mostly a practice project for me to get my feet wet in rust but it is also a...  
-console application that can help you find and get ways to construct lucky numbers  
+This repo is mostly a practice project for me to get my feet wet in rust but it is also a
+console application that can help you find and get ways to construct lucky numbers and
 find lucky numbers that have multiple constructions  
 
 
